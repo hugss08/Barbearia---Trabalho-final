@@ -185,7 +185,7 @@ Depois utilize:
 
 **Hugo Henrique**
 
-🎓 Curso: 🎓 Curso: Tecnologia em Sistemas para Internet
+🎓 Curso: Tecnologia em Sistemas para Internet
 
 🏫 Instituto Federal do Piauí – IFPI
 
