@@ -1,7 +1,7 @@
 <h1 align="center">💈 Barbearia Elite</h1>
 
 <p align="center">
-  <img src="img/logo.jpg" alt="Logo Barbearia Elite" width="180">
+  <img src="img/logo.png" alt="Logo Barbearia Elite" width="180">
 </p>
 
 <p align="center">
