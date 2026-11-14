@@ -1,10 +1,6 @@
 <h1 align="center">💈 Barbearia Elite</h1>
 
 <p align="center">
-  <img src="img/logo.png" alt="Logo Barbearia Elite" width="180">
-</p>
-
-<p align="center">
   <strong>Projeto desenvolvido como trabalho final da disciplina de Desenvolvimento Front-end.</strong>
 </p>
 
@@ -72,7 +68,6 @@ Barbearia-Elite
 │
 ├── img
 │   ├── banner.png
-│   ├── logo.jpg
 │   ├── barbeiro1.jpg
 │   ├── barbeiro2.jpg
 │   ├── barbeiro3.jpg
@@ -162,20 +157,6 @@ Abra o arquivo **index.html** em qualquer navegador ou utilize a extensão **Liv
 Acesse o projeto:
 
 🔗 **https://hugss08.github.io/Barbearia---Trabalho-final/**
-
----
-
-# Prévia
-
-Adicione um print da página inicial na pasta **img** com o nome `preview.png`.
-
-Depois utilize:
-
-```html
-<p align="center">
-   <img src="img/preview.png" width="800">
-</p>
-```
 
 ---
 
